@@ -1,0 +1,13 @@
+﻿#过滤txt文件、压缩文件 
+*.vector
+
+# 过滤文件夹
+software/
+PDF_BigFiles/
+
+# 跟踪文件 python、jupyter notebook  
+!*.py
+!*.ipynb
+
+# 跟踪文件夹
+# !/mtk/one.txt
