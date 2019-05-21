@@ -2,7 +2,7 @@
 *.vector
 
 # 过滤文件夹
-software/
+# software/
 PDF_BigFiles/
 
 # 跟踪文件 python、jupyter notebook  
